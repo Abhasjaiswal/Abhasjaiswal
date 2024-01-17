@@ -8,13 +8,13 @@
 
 - 🌐 Pursuing B.Tech in Computer Science and Engineering from UPES,Dehradun with a focus on Data Science.
 - 💡 Actively learning Python, Machine Learning, and various Data Science tools.
-- 💻 Skilled in C programming ,GCP , Linux, 
+- 💻 Skilled in C programming ,GCP , Linux,Python , Data Analysis and Visualization 
 - 🏆 Preparing for the AWS Cloud Certificate exams
 - 📚 Currently exploring data structures to strengthen my foundation.
 
 ## Skills
 
-- **Programming Languages:** C, Linux, Python (in progress)
+- **Programming Languages:** C, Linux, Python 
 - **Data Science:** Exploring machine learning, data analysis, Exploratory Data Analysis, and visualization.
 - **Cloud Computing:** Minoring in cloud computing to understand the infrastructure side.
 

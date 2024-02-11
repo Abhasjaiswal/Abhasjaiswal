@@ -1,31 +1,22 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Abhas Jaiswal</h1>
-<h3 align="center">A data science enthusiast currently pursuing B.Tech in Computer Science with a focus on Data Science. I also have a keen interest in cloud computing.
-</h3>
+<h3 align="center">A passionate Data Science student at School of Computer Science UPES,Dehradun</h3>
 
- 
-## About Me
+- 🌱 I’m currently learning **Data Science and Machine learning**
 
-- 🌐 Pursuing B.Tech in Computer Science and Engineering from UPES,Dehradun with a focus on Data Science.
-- 💡 Actively learning Python, Machine Learning, SQL and various Data Science tools.
-- 💻 Skilled in C programming ,GCP , Linux,Python , Data Analysis and Visualization (Pandas,Numpy,Matplotlib & Seaborn)
-- 🏆 Preparing for the AWS Cloud Certificate exams
-- 📚 Currently exploring data structures to strengthen my foundation.
+- 📫 How to reach me **abhas.jaiswal0907@gmail.com**
 
-## Skills
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abhasjaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhasjaiswal" height="30" width="40" /></a>
+<a href="https://kaggle.com/abhasjaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhasjaiswal" height="30" width="40" /></a>
+</p>
 
-- **Programming Languages:** C, Linux, Python , Data Analysis and visualisation 
-- **Data Science:** Exploring machine learning, data analysis, Exploratory Data Analysis, and visualization.
-- **Cloud Computing:** Minoring in cloud computing to understand the infrastructure side.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhasjaiswal&show_icons=true&locale=en&layout=compact" alt="abhasjaiswal" /></p>
 
-## Connect with Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhasjaiswal&show_icons=true&locale=en" alt="abhasjaiswal" /></p>
 
-- LinkedIn: www.linkedin.com/in/abhasjaiswal
-
-## 🚀 Goals
-
-My journey involves continuous learning and application in the exciting fields of data science and cloud computing. I'm eager to contribute to projects that make a positive impact.
-
-Feel free to explore my repositories, and let's connect! 🌟
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhasjaiswal&" alt="abhasjaiswal" /></p>
 

@@ -1,5 +1,5 @@
 # 💫 About Me:
-ursuing B.Tech in Computer Science and Engineering from UPES,Dehradun with a focus on Data Science.<br>Actively learning Python, Machine Learning, SQL and various Data Science tools.<br> Skilled in C programming ,GCP , Linux,Python , Data Analysis and Visualization (Pandas,Numpy,Matplotlib & Seaborn)<br> Preparing for the AWS Cloud Certificate exams<br> Currently exploring data structures to strengthen my foundation.<br>
+Pursuing B.Tech in Computer Science and Engineering from UPES,Dehradun with a focus on Data Science.<br>Actively learning Python, Machine Learning, SQL and various Data Science tools.<br> Skilled in C programming ,GCP , Linux,Python , Data Analysis and Visualization (Pandas,Numpy,Matplotlib & Seaborn)<br> Preparing for the AWS Cloud Certificate exams<br> Currently exploring data structures to strengthen my foundation.<br>
 
 
 ## 🌐 Socials:

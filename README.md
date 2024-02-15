@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhasjaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="abhasjaiswal" /> </p>
 
-- 🌱 I’m currently learning **Data Science and Machine learning**
-
 ## About Me
 
 - 💡 Actively learning Python, Machine Learning, SQL and various Data Science tools.

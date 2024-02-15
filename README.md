@@ -1,5 +1,4 @@
 [![MasterHead](https://github.com/Abhasjaiswal/Abhasjaiswal/blob/main/banner.png)](https://github.com/Abhasjaiswal)
-
 <h3 align="center">Currently pursuing B.tech CSE in Data Science at School of Computer Science UPES, Dehradun</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhasjaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="abhasjaiswal" /> </p>

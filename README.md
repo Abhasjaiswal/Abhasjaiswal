@@ -1,4 +1,4 @@
-[![Banner Image](https://github.com/Abhasjaiswal/Abhasjaiswal/blob/main/Make%20your%20README.png)](https://github.com/Abhasjaiswal)
+![Banner Image](https://github.com/Abhasjaiswal/Abhasjaiswal/blob/main/Make%20your%20README.png)(https://github.com/Abhasjaiswal)
 
 <h1 align="center">Hi 👋, I'm Abhas Jaiswal</h1>
 <h3 align="center">A passionate Data Science student at School of Computer Science UPES,Dehradun</h3>

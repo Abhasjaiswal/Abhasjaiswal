@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/Abhasjaiswal/Abhasjaiswal/blob/main/Make%20your%20README.png)](https://github.com/Abhasjaiswal)
 
-<h3 align="center">A passionate Data Science student at School of Computer Science UPES,Dehradun</h3>
+<h3 align="center">Currently pursuing B.tech CSE in Data Science at School of Computer Science UPES, Dehradun</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhasjaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="abhasjaiswal" /> </p>
 

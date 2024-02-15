@@ -13,7 +13,7 @@
 
 ## Skills
 
-- **Programming Languages:** C, Linux, Python , Data Analysis and visualisation 
+- **Programming Languages:** C, Linux, Python , Data Analysis and visualisation (Pandas,Numpy,Matplotlib,plotly,seaborn)
 - **Data Science:** Exploring machine learning, data analysis, Exploratory Data Analysis, and visualization.
 - **Cloud Computing:** Minoring in cloud computing to understand the infrastructure side.
 

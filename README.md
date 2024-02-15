@@ -1,4 +1,4 @@
-[![Banner Image](https://github.com/Abhasjaiswal/Abhasjaiswal/blob/main/Make%20your%20README.png)](www.linkedin.com/in/abhasjaiswal)
+[![Banner Image](https://github.com/Abhasjaiswal/Abhasjaiswal/blob/main/Make%20your%20README.png)]
 <h1 align="center">Hi 👋, I'm Abhas Jaiswal</h1>
 <h3 align="center">A data science enthusiast currently pursuing B.Tech in Computer Science with a focus on Data Science. I also have a keen interest in cloud computing.
 </h3>

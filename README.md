@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Abhasjaiswal/Abhasjaiswal/blob/main/Make%20your%20README.png)](https://github.com/Abhasjaiswal)
+[![MasterHead](https://github.com/Abhasjaiswal/Abhasjaiswal/blob/main/banner.png)](https://github.com/Abhasjaiswal)
 
 <h3 align="center">Currently pursuing B.tech CSE in Data Science at School of Computer Science UPES, Dehradun</h3>
 

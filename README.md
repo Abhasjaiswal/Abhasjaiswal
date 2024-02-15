@@ -1,4 +1,4 @@
-[![Banner Image](https://github.com/Abhasjaiswal/Abhasjaiswal/blob/main/Make%20your%20README.png)]
+![Banner Image](https://github.com/Abhasjaiswal/Abhasjaiswal/blob/main/Make%20your%20README.png)(https://github.com/Abhasjaiswal)
 <h1 align="center">Hi 👋, I'm Abhas Jaiswal</h1>
 <h3 align="center">A data science enthusiast currently pursuing B.Tech in Computer Science with a focus on Data Science. I also have a keen interest in cloud computing.
 </h3>

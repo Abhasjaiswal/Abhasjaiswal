@@ -11,8 +11,6 @@
 - 🏆 Preparing for the AWS Cloud Certificate exams
 - 📚 Currently exploring data structures to strengthen my foundation.
 
-[Download my resume](https://github.com/Abhasjaiswal/Abhasjaiswal/blob/main/final%20resume%20%40abhasJaiswal.pdf)
-
 ## Skills
 
 - **Programming Languages:** C, Python

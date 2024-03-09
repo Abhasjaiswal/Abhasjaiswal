@@ -11,11 +11,11 @@
 - 📚 Currently exploring data structures to strengthen my foundation.
 
 ## Skills
-
 - **Programming Languages:** C, Python
 - **Data Analysis and Visualization:** Pandas, NumPy, Seaborn, Matplotlib
 - **Version Control:** Git & GitHub
 - **Operating System:** Linux
+- **Web Scrapping:** Requests and Beautifulsoup
 - **Data Modeling**
 
 - 📫 How to reach me **abhas.jaiswal0907@gmail.com** 

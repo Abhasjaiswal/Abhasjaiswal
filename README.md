@@ -26,15 +26,9 @@
 <a href="https://kaggle.com/abhasjaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhasjaiswal" height="30" width="40" /></a>
 </p>
 
-
-<style>
-    .streak-stats .streak-count {
-        color: #ffffff; 
-    }
-</style>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhasjaiswal&show_icons=true&locale=en&layout=compact&bg_color=0D1117&text_color=ffffff" alt="abhasjaiswal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhasjaiswal&show_icons=true&locale=en&bg_color=0D1117&text_color=ffffff" alt="abhasjaiswal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhasjaiswal&bg_color=0D1117" alt="abhasjaiswal" class="streak-stats"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhasjaiswal&bg_color=0D1117&text_color=ffffff" alt="abhasjaiswal" /></p>
+

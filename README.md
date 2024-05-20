@@ -4,8 +4,7 @@
 
 ## About Me
 
-- 💡 Actively learning Python, Machine Learning, SQL and various Data Science tools.
-- 💻 Skilled in C programming ,GCP , Linux,Python , Data Analysis and Visualization (Pandas,Numpy,Matplotlib & Seaborn)
+- 💡 Actively learning Machine Learning, SQL and various Data Science tools.
 - 🏆 Preparing for the AWS Cloud Certificate exams
 - 📚 Currently exploring data structures to strengthen my foundation.
 
@@ -16,6 +15,7 @@
 - **Operating System:** Linux
 - **Web Scrapping:** Requests and Beautifulsoup
 - **Data Modeling**
+- **MLOPs:** Docker for containerisation 
 
 - 📫 How to reach me **abhas.jaiswal0907@gmail.com** 
 

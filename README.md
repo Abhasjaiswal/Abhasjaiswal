@@ -15,7 +15,8 @@
 - **Operating System:** Linux
 - **Web Scrapping:** Requests and Beautifulsoup
 - **Data Modeling**
-- **MLOPs:** Docker for containerisation 
+- **MLOPs:** Docker for containerisation , CICD Pipeline using Github Actions and Jenkins
+- **Machine Learing** Proficient in supervised and unsupervised learning with expertise in Python's Scikit-learn, TensorFlow/Keras  
 
 - 📫 How to reach me **abhas.jaiswal0907@gmail.com** 
 

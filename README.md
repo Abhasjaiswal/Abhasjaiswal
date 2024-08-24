@@ -16,7 +16,8 @@
 - **Web Scrapping:** Requests and Beautifulsoup
 - **Data Modeling**
 - **MLOPs:** Docker for containerisation , CICD Pipeline using Github Actions and Jenkins
-- **Machine Learing** Proficient in supervised and unsupervised learning with expertise in Python's Scikit-learn, TensorFlow/Keras  
+- **Machine Learing** Proficient in supervised and unsupervised learning with expertise in Python's Scikit-learn, TensorFlow/Keras
+- ** Web Development** Proficient in React 
 
 - 📫 How to reach me **abhas.jaiswal0907@gmail.com** 
 

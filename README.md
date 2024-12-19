@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Abhas Jaiswal, a passionate Software Developer and Data Science enthusiast. I'm currently pursuing a B.Tech in Computer Science and Engineering with a specialization in Data Science. I love building innovative web solutions, working with machine learning models, and exploring new technologies to solve real-world problems.
+Hi! I'm Abhas Jaiswal, a passionate Software Developer and Data Science enthusiast. I'm currently pursuing  B.Tech in Computer Science and Engineering with a specialization in Data Science. I love building innovative web solutions, working with machine learning models, and exploring new technologies to solve real-world problems.
 
 
 ## 🌐 Socials:

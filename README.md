@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Abhasjaiswal/Abhasjaiswal/blob/main/github-header-image%20(2).png" alt="GitHub Header Image" />
+</p>
+
+
 # 💫 About Me:
 Hi! I'm Abhas Jaiswal, a passionate Software Developer and Data Science enthusiast. I'm currently pursuing  B.Tech in Computer Science and Engineering with a specialization in Data Science. I love building innovative web solutions, working with machine learning models, and exploring new technologies to solve real-world problems.
 

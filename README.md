@@ -67,7 +67,7 @@ Looking for a detailed overview of my skills, projects, and experience?
 Click the button below to view or download my resume:
 
 <p align="center">
-  <a href="https://tinyurl.com/abhas-resume" target="_blank">
+  <a href="https://tinyurl.com/abhasjaiswalresume" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Resume-%2300A4CC.svg?style=for-the-badge&logo=google-drive&logoColor=white" alt="View My Resume"/>
   </a>
 </p>

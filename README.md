@@ -61,12 +61,13 @@ Hi! I'm Abhas Jaiswal, a passionate Software Developer and Data Science enthusia
 [![](https://visitcount.itsvg.in/api?id=abhasjaiswal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 📄 **My Resume**
+https://tinyurl.com/resume-abhas-final
 
 Looking for a detailed overview of my skills, projects, and experience?  
 Click the button below to view or download my resume:
 
 <p align="center">
-  <a href="https://tinyurl.com/resume-abhas-jaiswal" target="_blank">
+  <a href="https://tinyurl.com/resume-abhas-final" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Resume-%2300A4CC.svg?style=for-the-badge&logo=google-drive&logoColor=white" alt="View My Resume"/>
   </a>
 </p>
